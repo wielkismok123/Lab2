@@ -22,7 +22,7 @@ public class Main {
         taskList.add(task3);
         taskList.add(task4);
 
-        for (Task task : taskList) {
+        for (task task : taskList) {
             System.out.println(task.toString());
         }
     }
